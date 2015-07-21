@@ -9,7 +9,7 @@ it is useful if you want to change something in container but you do not want to
 so          
        
 1.build the thing       
-2.put initialisation in bootstrap or run script
-3.rebuild possibly on major change
-4. rescript on config and minor issues
-5. TIP: all things that change often put on bottom of docker file :-D
+2.put initialisation in bootstrap or run script       
+3.rebuild possibly on major change       
+4. rescript on config and minor issues       
+5. TIP: all things that change often put on bottom of docker file :-D       
